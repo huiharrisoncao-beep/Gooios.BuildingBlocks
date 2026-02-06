@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+	  <TargetFramework>net10.0</TargetFramework>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <Compile Remove="Domain\Event\IDomainEventAggregate.cs" />
+	  <Compile Remove="Extensions\EntityFrameworkCoreExtension.cs" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="AspectCore.Core" />
+		<PackageReference Include="AspectCore.Extensions.DependencyInjection" />
+		<PackageReference Include="Autofac" />
+		<PackageReference Include="AutoMapper" />
+		<PackageReference Include="CacheManager.Core" />
+		<PackageReference Include="Dapper" />
+		<PackageReference Include="FluentValidation" />
+		<PackageReference Include="MediatR" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Relational" />
+		<PackageReference Include="NetTopologySuite" />
+		<PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" />
+		<PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL.NetTopologySuite" />
+		<PackageReference Include="Pomelo.EntityFrameworkCore.MySql" />
+		<PackageReference Include="Quartz" />
+		<PackageReference Include="Serilog" />
+		<PackageReference Include="Serilog.AspNetCore" />
+		<PackageReference Include="Serilog.Extensions.Logging" />
+		<PackageReference Include="Serilog.Settings.Configuration" />
+		<PackageReference Include="Serilog.Sinks.File" />
+		<PackageReference Include="Snowflake.Core" />
+		<PackageReference Include="System.Data.SqlClient" />
+		<PackageReference Include="ZKWeb.System.Drawing" />
+	</ItemGroup>
+
+</Project>

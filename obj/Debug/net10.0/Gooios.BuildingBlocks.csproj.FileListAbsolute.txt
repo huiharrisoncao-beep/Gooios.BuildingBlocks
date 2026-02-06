@@ -1,0 +1,13 @@
+C:\workspace\LingStar\Gooios.BuildingBlocks\bin\Debug\net10.0\Gooios.BuildingBlocks.deps.json
+C:\workspace\LingStar\Gooios.BuildingBlocks\bin\Debug\net10.0\Gooios.BuildingBlocks.dll
+C:\workspace\LingStar\Gooios.BuildingBlocks\bin\Debug\net10.0\Gooios.BuildingBlocks.pdb
+C:\workspace\LingStar\Gooios.BuildingBlocks\obj\Debug\net10.0\Gooios.BuildingBlocks.csproj.AssemblyReference.cache
+C:\workspace\LingStar\Gooios.BuildingBlocks\obj\Debug\net10.0\Gooios.BuildingBlocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\LingStar\Gooios.BuildingBlocks\obj\Debug\net10.0\Gooios.BuildingBlocks.AssemblyInfoInputs.cache
+C:\workspace\LingStar\Gooios.BuildingBlocks\obj\Debug\net10.0\Gooios.BuildingBlocks.AssemblyInfo.cs
+C:\workspace\LingStar\Gooios.BuildingBlocks\obj\Debug\net10.0\Gooios.BuildingBlocks.csproj.CoreCompileInputs.cache
+C:\workspace\LingStar\Gooios.BuildingBlocks\obj\Debug\net10.0\EFCoreNpgsqlNetTopologySuite.cs
+C:\workspace\LingStar\Gooios.BuildingBlocks\obj\Debug\net10.0\Gooios.BuildingBlocks.dll
+C:\workspace\LingStar\Gooios.BuildingBlocks\obj\Debug\net10.0\refint\Gooios.BuildingBlocks.dll
+C:\workspace\LingStar\Gooios.BuildingBlocks\obj\Debug\net10.0\Gooios.BuildingBlocks.pdb
+C:\workspace\LingStar\Gooios.BuildingBlocks\obj\Debug\net10.0\ref\Gooios.BuildingBlocks.dll
